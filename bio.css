@@ -1,0 +1,73 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.nav-bar {
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: row;
+   flex-direction: row;
+   height: 40px;
+   width: 1250px;
+   background-color: blue;
+}
+
+li {
+	float: left;
+	padding-right: 50px;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+
+.main-div {
+	display: table-cell;
+      height: 600px;
+      width: 1250px;
+      background: white;
+    text-align: center;
+   
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+
+}
+
+.git {
+	color:black;
+	font-size: 20px;
+}
+
+.face-book {
+	color:black;
+	font-size: 20px;
+}
+
+.twitter {
+	color: black;
+	font-size: 20px;
+}
+
+ 
+
+p {
+	color: white;
+}
+
+.bottom-page {
+	display: table-cell;
+      height: 60px;
+      width: 1250px;
+      background-color: black;
+    text-align: center;
+    color: white;
+}
